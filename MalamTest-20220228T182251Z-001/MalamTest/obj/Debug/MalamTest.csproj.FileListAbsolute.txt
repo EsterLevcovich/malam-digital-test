@@ -1,0 +1,12 @@
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\bin\Debug\MalamTest.exe.config
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\bin\Debug\MalamTest.exe
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\bin\Debug\MalamTest.pdb
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\obj\Debug\MalamTest.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\obj\Debug\MalamTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\obj\Debug\MalamTest.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\obj\Debug\MalamTest.exe
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\obj\Debug\MalamTest.pdb
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\bin\Debug\Bll.dll
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\bin\Debug\Bll.pdb
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\obj\Debug\MalamTest.csproj.CopyComplete
+C:\Users\1\Desktop\EsterLevcovich\MalamTest\MalamTest\bin\Debug\Email.html
